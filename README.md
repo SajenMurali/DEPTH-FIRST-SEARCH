@@ -1,5 +1,5 @@
-<h3>Name: Sajen Murali </h3> 
-<h3>Register Number: 212223220089</h3> 
+<h4>Name: Sajen Murali </h4> 
+<h4>Register Number: 212223220089</h4> 
 # BREADTH-FIRST-SEARCH
 <h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
 <h3>Name: SANJAY SIVARAMAKRISHNAN M </h3> 
